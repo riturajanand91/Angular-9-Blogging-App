@@ -1,5 +1,4 @@
 ## Angular-9 Blogging App Auth0 + Bulma + Firebase (Realtime Database) + Rich text Editor + Disqus + Ngx pagination + NGX Spinner + Compodoc.
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
 Whats like developing a **Blogging Application using Angular-9**.
 
